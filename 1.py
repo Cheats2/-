@@ -4,3 +4,5 @@ if password1==password:
     print("вхід дозволений")
 else:
     print("вхід заборонений")
+name = input("введіть своє ім'я: ")
+print("Привіт, " + name + "!")
